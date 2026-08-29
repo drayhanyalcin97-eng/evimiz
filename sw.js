@@ -1,4 +1,4 @@
-const CACHE = "evimiz-v1";
+const CACHE = "evimiz-v2";
 const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./icon-512-maskable.png", "./apple-touch-icon.png"];
 
 self.addEventListener("install", e => {
